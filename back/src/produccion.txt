@@ -1,0 +1,4 @@
+back
+
+si instalo npm init ,   npm install nodemon,npm i axios
+carpeta server se impota http y se levante el server 

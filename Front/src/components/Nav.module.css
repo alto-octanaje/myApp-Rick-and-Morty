@@ -1,0 +1,8 @@
+.Nav{
+    background: linear-gradient(20deg, #0F0FF5 2%, #440965 76%);
+    padding: .5rem;
+    border: 3px groove #09BB09;
+    box-shadow: 6px 22px 28px 6px #77E614;
+    opacity: 0.92;
+
+}
